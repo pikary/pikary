@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there 👋, my name is Nurlan
+#### I am Frontend developer
+![I am Frontend developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**pikary/pikary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i am 20 years old and here is my cv https://drive.google.com/file/d/1q_ipf8fvNDAZ68A_7N6BXIqSjVXJI8Po/view?usp=sharing
 
-Here are some ideas to get you started:
+Skills: REACT, VUE
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
